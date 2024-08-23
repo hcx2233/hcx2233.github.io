@@ -4,6 +4,19 @@
   
   
   <entry>
+    <title>测试</title>
+    <link href="/2024/08/23/%E6%B5%8B%E8%AF%95/"/>
+    <url>/2024/08/23/%E6%B5%8B%E8%AF%95/</url>
+    
+    <content type="html"><![CDATA[<html>    <head>        <script type="text/javascript" src="https://github.com/548970757/548970757/blob/main/imagelist.json"></script>        <title>404</title>        <style>            img            {                width: 100%;                height: auto;            }        </style>    </head>    <body>        <script type="text/javascript">            var r=Math.floor(Math.random()*images.length)            document.write("<img src="+images[r]+">")        </script>    </body></html>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World</title>
     <link href="/2024/08/23/hello-world/"/>
     <url>/2024/08/23/hello-world/</url>
