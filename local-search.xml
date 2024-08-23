@@ -8,7 +8,7 @@
     <link href="/2024/08/23/%E6%B5%8B%E8%AF%95/"/>
     <url>/2024/08/23/%E6%B5%8B%E8%AF%95/</url>
     
-    <content type="html"><![CDATA[<html>    <head>        <script type="text/javascript" src="https://github.com/548970757/548970757/blob/main/imagelist.json"></script>        <title>404</title>        <style>            img            {                width: 100%;                height: auto;            }        </style>    </head>    <body>        <script type="text/javascript">            var r=Math.floor(Math.random()*images.length)            document.write("<img src="+images[r]+">")        </script>    </body></html>]]></content>
+    <content type="html"><![CDATA[<!DOCTYPE html><html lang="en"><head>    <meta charset="UTF-8">    <title>Title</title></head><body><script type="text/javascript">    //<!CDATA[    var pic = [];    pic[0] = "https://www.omegaxyz.com/wp-content/uploads/2018/06/new.jpg";    pic[1] = "https://www.omegaxyz.com/wp-content/uploads/2018/01/tensorflow.jpg";    pic[2] = "https://www.omegaxyz.com/wp-content/uploads/2017/06/htmlandcss.jpg";    pic[3] = "https://www.omegaxyz.com/wp-content/uploads/2018/07/tbp.jpg";<pre><code class="hljs">var randomBgIndex = Math.round( Math.random() * 3 );//输出随机的背景图//document.write(&#39;&lt;style&gt;body&#123;background:url(&#39; + bodyBgs[randomBgIndex] + &#39;) no-repeat 50% 0&#125;&lt;/style&gt;&#39;);document.write(&quot;&lt;img src=&quot; + pic[randomBgIndex] + &quot; width=&#39;400&#39;&gt;&quot;)//]]&gt;</code></pre><p></script></p></body></html>]]></content>
     
     
     
